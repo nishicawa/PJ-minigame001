@@ -1,17 +1,18 @@
 fileFormatVersion: 2
 guid: 6463e6e1f8ff9694e8495af8344c1f88
-timeCreated: 18446744011573954816
+timeCreated: 1517671253
+licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: "Unity-Chan-Jump_0"
-    21300002: "Unity-Chan-Jump_1"
-    21300004: "Unity-Chan-Jump_2"
-    21300006: "Unity-Chan-Jump_3"
-    21300008: "Unity-Chan-Jump_4"
-    21300010: "Unity-Chan-Jump_5"
-    21300012: "Unity-Chan-Jump_6"
-    21300014: "Unity-Chan-Jump_7"
-    21300016: "Unity-Chan-Jump_8"
+    21300000: Unity-Chan-Jump_0
+    21300002: Unity-Chan-Jump_1
+    21300004: Unity-Chan-Jump_2
+    21300006: Unity-Chan-Jump_3
+    21300008: Unity-Chan-Jump_4
+    21300010: Unity-Chan-Jump_5
+    21300012: Unity-Chan-Jump_6
+    21300014: Unity-Chan-Jump_7
+    21300016: Unity-Chan-Jump_8
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -118,127 +119,127 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "Unity-Chan-Jump_0"
+      name: Unity-Chan-Jump_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 70
         height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: "Unity-Chan-Jump_1"
+      name: Unity-Chan-Jump_1
       rect:
         serializedVersion: 2
         x: 70
         y: 0
         width: 70
         height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: "Unity-Chan-Jump_2"
+      name: Unity-Chan-Jump_2
       rect:
         serializedVersion: 2
         x: 140
         y: 0
         width: 70
         height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: "Unity-Chan-Jump_3"
+      name: Unity-Chan-Jump_3
       rect:
         serializedVersion: 2
         x: 210
         y: 0
         width: 70
         height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: "Unity-Chan-Jump_4"
+      name: Unity-Chan-Jump_4
       rect:
         serializedVersion: 2
         x: 280
         y: 0
         width: 70
         height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: "Unity-Chan-Jump_5"
+      name: Unity-Chan-Jump_5
       rect:
         serializedVersion: 2
-        x: 350
+        x: 349
         y: 0
         width: 70
         height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: "Unity-Chan-Jump_6"
+      name: Unity-Chan-Jump_6
       rect:
         serializedVersion: 2
-        x: 420
+        x: 419
         y: 0
         width: 70
         height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: "Unity-Chan-Jump_7"
+      name: Unity-Chan-Jump_7
       rect:
         serializedVersion: 2
         x: 490
         y: 0
         width: 70
         height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: "Unity-Chan-Jump_8"
+      name: Unity-Chan-Jump_8
       rect:
         serializedVersion: 2
         x: 560
         y: 0
         width: 70
         height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
