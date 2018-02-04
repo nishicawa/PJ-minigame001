@@ -1,17 +1,18 @@
 fileFormatVersion: 2
 guid: ba157d79492a285439ff7297d2f18f5e
-timeCreated: 18446744011573954816
+timeCreated: 1517671343
+licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: "Unity-Chan-Jump_SHOT_0"
-    21300002: "Unity-Chan-Jump_SHOT_1"
-    21300004: "Unity-Chan-Jump_SHOT_2"
-    21300006: "Unity-Chan-Jump_SHOT_3"
-    21300008: "Unity-Chan-Jump_SHOT_4"
-    21300010: "Unity-Chan-Jump_SHOT_5"
-    21300012: "Unity-Chan-Jump_SHOT_6"
-    21300014: "Unity-Chan-Jump_SHOT_7"
-    21300016: "Unity-Chan-Jump_SHOT_8"
+    21300000: Unity-Chan-Jump_SHOT_0
+    21300002: Unity-Chan-Jump_SHOT_1
+    21300004: Unity-Chan-Jump_SHOT_2
+    21300006: Unity-Chan-Jump_SHOT_3
+    21300008: Unity-Chan-Jump_SHOT_4
+    21300010: Unity-Chan-Jump_SHOT_5
+    21300012: Unity-Chan-Jump_SHOT_6
+    21300014: Unity-Chan-Jump_SHOT_7
+    21300016: Unity-Chan-Jump_SHOT_8
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -39,7 +40,7 @@ TextureImporter:
   maxTextureSize: 1024
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: 1
     mipBias: -1
     wrapU: 1
@@ -74,131 +75,171 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "Unity-Chan-Jump_SHOT_0"
+      name: Unity-Chan-Jump_SHOT_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 70
         height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: "Unity-Chan-Jump_SHOT_1"
+      name: Unity-Chan-Jump_SHOT_1
       rect:
         serializedVersion: 2
         x: 70
         y: 0
         width: 70
         height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: "Unity-Chan-Jump_SHOT_2"
+      name: Unity-Chan-Jump_SHOT_2
       rect:
         serializedVersion: 2
         x: 140
         y: 0
         width: 70
         height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: "Unity-Chan-Jump_SHOT_3"
+      name: Unity-Chan-Jump_SHOT_3
       rect:
         serializedVersion: 2
         x: 210
         y: 0
         width: 70
         height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: "Unity-Chan-Jump_SHOT_4"
+      name: Unity-Chan-Jump_SHOT_4
       rect:
         serializedVersion: 2
         x: 280
         y: 0
         width: 70
         height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: "Unity-Chan-Jump_SHOT_5"
+      name: Unity-Chan-Jump_SHOT_5
       rect:
         serializedVersion: 2
         x: 350
         y: 0
         width: 70
         height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: "Unity-Chan-Jump_SHOT_6"
+      name: Unity-Chan-Jump_SHOT_6
       rect:
         serializedVersion: 2
         x: 420
         y: 0
         width: 70
         height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: "Unity-Chan-Jump_SHOT_7"
+      name: Unity-Chan-Jump_SHOT_7
       rect:
         serializedVersion: 2
         x: 490
         y: 0
         width: 70
         height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
     - serializedVersion: 2
-      name: "Unity-Chan-Jump_SHOT_8"
+      name: Unity-Chan-Jump_SHOT_8
       rect:
         serializedVersion: 2
         x: 560
         y: 0
         width: 70
         height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

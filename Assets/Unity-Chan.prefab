@@ -20,8 +20,10 @@ GameObject:
   m_Component:
   - component: {fileID: 4301593045136590}
   - component: {fileID: 212930652404924610}
-  - component: {fileID: 95163453883904940}
+  - component: {fileID: 95578600007104156}
   - component: {fileID: 50976308379597196}
+  - component: {fileID: 70332057181466520}
+  - component: {fileID: 114124593238544830}
   m_Layer: 0
   m_Name: Unity-Chan
   m_TagString: Untagged
@@ -36,7 +38,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1725403967119742}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.6, y: 0.08, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -61,8 +63,23 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
---- !u!95 &95163453883904940
+  m_Constraints: 4
+--- !u!70 &70332057181466520
+CapsuleCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1725403967119742}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.03182888, y: -0.1150465}
+  m_Size: {x: 0.7130494, y: 1.4242897}
+  m_Direction: 0
+--- !u!95 &95578600007104156
 Animator:
   serializedVersion: 3
   m_ObjectHideFlags: 1
@@ -71,7 +88,7 @@ Animator:
   m_GameObject: {fileID: 1725403967119742}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: afc607a0bdf7d48f295a9a2f6e6dcafa, type: 2}
+  m_Controller: {fileID: 9100000, guid: a4d4968bc11434747abaffbe9914692f, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -79,6 +96,21 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &114124593238544830
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1725403967119742}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bb556346eaa34247b2a46e9d0bcae08, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameManager: {fileID: 0}
+  blockLayer:
+    serializedVersion: 2
+    m_Bits: 256
 --- !u!212 &212930652404924610
 SpriteRenderer:
   m_ObjectHideFlags: 1
